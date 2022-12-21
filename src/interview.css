@@ -1,0 +1,28 @@
+.form-data {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+}
+.input-field {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  margin: 40px auto;
+  outline: none;
+  text-decoration: none;
+  border: none;
+  border-bottom: 1px solid black;
+}
+.post-btn {
+  width: 40%;
+  padding: 5px;
+  margin: 40px auto;
+  background-color: rgb(43, 189, 229);
+}
+.article {
+  border: 1px solid black;
+  padding: 10px 10px;
+  margin: 40px auto;
+  background-color: rgb(32, 183, 225);
+}
